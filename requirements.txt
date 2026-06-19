@@ -18,3 +18,4 @@ lanchain_chroma
 lanchain_core
 beautifulsoup4
 streamlit
+langchain_tavily
